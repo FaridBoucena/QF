@@ -23,6 +23,31 @@
 // Layout in General 
 
   - Header / Navigation / Menu 
+  
+  4.1 
+  
+Logo img 
+1. - dropdown
+FAQ, home, about, store
+2. - dropdown 
+about
+_values
+_vision
+-team
+
+
+3. store
+_vouchers
+_QF ID
+_Quiche Store
+
+4.faq
+_questions
+
+
+
+  
+  4.2
   - Main/ Content 
   - Footer 
   
