@@ -15,6 +15,31 @@ img:hover{
     cursor: pointer;
 }
 
+.dropdown-store{ 
+    display: inline-block;
+    position: relative;
+    margin-left: auto;
+    
+}
+
+.dropdown-content-store{
+    display: none;
+    position: absolute;
+    top: 400px;
+    left: 500px;
+    min-width:60px;
+    z-index: 1;
+}
+
+.dropdown-store:hover
+.dropdown-content-store {
+  display: block;
+}
+
+
+
+
+
 
 
 .dropdown{
@@ -56,13 +81,15 @@ display: inline-block;
 
 }
 
-.hero-image>img{
-
-}
 
 
-.hero-image{
-   background-image: url("nature.jpg") no-repeat center;
+
+.hero-img{
+   background-image: url("nature.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 600px;
+    position: relative;
  height: 50%;
  background-size: contain;
 
